@@ -237,6 +237,10 @@ html {
     width: 100%;
 }
 
+#descarga {
+    text-decoration: none;
+}
+
 /* SECCION SKILLS */
 .skills {
     background-color: #252A2E;
